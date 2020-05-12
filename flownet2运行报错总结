@@ -1,1 +1,3 @@
 在计算光流的代码中，编码方式：# -*- coding: iso-8859-1 -*-
+
+read_gen返回的维度是[h,w,c]和opencv中的img.shape一样
