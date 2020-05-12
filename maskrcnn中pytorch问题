@@ -1,0 +1,1 @@
+在pytoch1.0.0中没有torch.bool  修改成torch.uint8
